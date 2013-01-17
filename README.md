@@ -2,6 +2,10 @@
 
 A presentation prepared for the January 2013 Philadelphia PostgreSQL User Group meetup.
 
+## Handout ##
+
+[The handout for the presentation](https://github.com/jwalgran/postgis-introduction/blob/master/IntroductionToPostGIS.pdf?raw=true) is available on [GitHub](https://github.com/jwalgran/postgis-introduction)
+
 ## The PostGISLab Virtual Machine ##
 
 You can download a copy of the
