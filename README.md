@@ -8,7 +8,7 @@ A presentation prepared for the January 2013 Philadelphia PostgreSQL User Group 
 
 ## The PostGISLab Virtual Machine ##
 
-You can download a copy of the
+You can [download a copy of the virtual machine](https://www.dropbox.com/s/79xpuzm59cmsj3a/PostGISLab.zip) (2.54GB zipped)
 
 The virtual machine was created using [VirtualBox](https://www.virtualbox.org) and has the following open source software installed:
 
