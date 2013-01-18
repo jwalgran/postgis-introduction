@@ -56,3 +56,7 @@ All data files linked below are available in the `Data` directory in the `postgi
     - [My Clinical Trial Locator](http://myclinicaltriallocator.com)
   - [CartoDB - PostGIS as a service](http://cartodb.com) 
 
+## Questions? ##
+
+@jwalgran for shorties, justin@walgran.com for longies.
+
