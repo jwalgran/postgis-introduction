@@ -49,7 +49,7 @@ All data files linked below are available in the `Data` directory in the `postgi
     - [OpenGeo Suite Community Edition (OS X, Windows, Linux)](http://opengeo.org/products/suite/community/)
     - [PostGIS for OS X](http://www.kyngchaos.com/software:postgres)
     - [PostGIS for Windows](http://postgis.refractions.net/download/windows/#postgis-installers)
-  - Applications Powered By PostGIS
+  - [Azavea](http://azavea.com)-built Applications Powered By PostGIS
     - [Cicero](http://www.azavea.com/products/cicero/live-demo/)
     - [PhillyTreeMap](http://phillytreemap.org/map/)
     - [Visualizing Emancipation - University of Richmond](http://dsl.richmond.edu/emancipation/)
